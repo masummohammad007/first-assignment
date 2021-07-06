@@ -34,7 +34,6 @@ p {
 
 .orange-btn {
     text-decoration: none;
-    background-color: orange;
     background: linear-gradient(to right, rgb(236, 91, 24), rgb(90, 31, 4));
     padding: 12px;
     font-size: 20px;
